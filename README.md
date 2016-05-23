@@ -1,0 +1,2 @@
+# FloatView
+APP悬浮广告的自定义View可任意拖拽,封装点击click,longclick点击事件在具体presenter层实现业务逻辑，
